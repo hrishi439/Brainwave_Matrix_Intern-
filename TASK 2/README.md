@@ -1,4 +1,4 @@
-# Brainwave_Matrix_Intern-TASK-2 Repository
+# Brainwave_Matrix_Intern Repository
 
 Welcome to the Brainwave_Matrix_Intern-TASK-2 repository!
 
