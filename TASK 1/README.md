@@ -1,6 +1,6 @@
 # Brainwave_Matrix_Intern Repository
 
-Welcome to the Brainwave_Matrix_Intern repository!
+Welcome to the Brainwave_Matrix_Intern -TASK 1 repository!
 
 This repository showcases code developed by [@hrishi439](https://www.linkedin.com/in/hrishikesh-mallela-0a39112ab) during an internship at Brainwave Matrix Solutions. It includes tasks assigned as part of the internship program, demonstrating skills in Python programming.
 
